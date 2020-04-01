@@ -13,7 +13,7 @@ Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e
 
 Depois disso, instale as dependências do Front-end e do Back-end:
 ```sh
-  $ cd backend && yarn install # ou npm install
+  $ cd yt-context-api/backend && yarn install # ou npm install
   $ cd ../starter && yarn install # ou npm install
 ```
 
